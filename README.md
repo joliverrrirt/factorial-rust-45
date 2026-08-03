@@ -1,2 +1,4 @@
-# factorial-rust-45
+# Factorial Rust 45
+
 Multiplying recursive integer values in Rust.
+
